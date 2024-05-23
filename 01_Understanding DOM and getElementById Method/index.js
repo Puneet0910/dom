@@ -10,4 +10,4 @@ let footerDiv = document.getElementById("thanks");
 let para = document.createElement('p');
 let paraText = document.createTextNode("Please visit us again");
 para.appendChild(paraText);
-footerDiv.appendChild(para);
+footerDiv.appendChild(para); 
